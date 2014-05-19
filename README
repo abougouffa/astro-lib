@@ -1,0 +1,5 @@
+astro-lib
+=========
+Astro-lib is an implementation of the algorithms presented by Jean Meeus in his
+"Astronomical Algorithms" book, ISBN:0-943396-35-2 and other algorithms like
+the Hijri date calculation algorithm...
